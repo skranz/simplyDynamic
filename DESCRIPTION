@@ -1,0 +1,10 @@
+Package: simplyDynamic
+Type: Package
+Title: Simulations of simple discrete time dynamic models
+Version: 0.1
+Date: 2014-12-05
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Depends: codeUtils
